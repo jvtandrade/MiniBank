@@ -1,0 +1,12 @@
+# Ignorar pastas de build e binários
+[Bb]in/
+[Oo]bj/
+
+# Ignorar pastas de ferramentas/IDE
+.vs/
+.vscode/
+
+# Se a pasta bin ainda insistir em aparecer, adicione o caminho específico:
+bin/
+Debug/
+Release/
